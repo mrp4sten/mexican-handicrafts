@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mexican-handicrafts",
+  "private_key_id": "4921c55927fae357c3554b0f128b177ca44dbcd0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHsJtWxlS57g4p\nQ+euOkeS88vgkZ52+fSg9vjdqJzgWIveKjLFohaJ6oUnWyE8FlvjQBmbhPUv3/N6\nxNc0oX3JiBWmvtwa321OQsfR1xyYFQcZoDuep4cy1TDBLcWGBwNkjRzeubc5/Le7\nhd37KTdOKajYVIGOfAzMmimA6uSSoSsejhoCTEn55RlQ506Netlfo99T4n+HBGjy\nk+HcD3L0Be578wLJkp65v5q/M7DUuyqoSnwHj/w95v/RxHkWFK1dIMfAffyiINkW\nvEEtN4Db58ChIQCNomjHb/4ySw1T5qfW+VdDfyBR+ADeE9EAW4GkMkRKBeV1rUul\nE7dvuDWbAgMBAAECggEACaZYK15UM9P0LTxR0tKQKOLNJGIFFVzI3IpyxktioVjG\nEYtafsBxdGK34on91iiCcj3jvucy7ghVfMZMXAe9y2JfIXqxqj7HynNhsptBj3vc\npvleSDFyUBuLSpqKpApsuIw1K/Ivj4bN3ir+6ic4u/c5aJLU2+zUtYJxpQA04X0A\nZutacS6bpKi20ryefPEunU8TIgsXPBJyLkH09p6EwyJruRCkfdJN0bbQ7UcXSRQC\n8r2fjYKYF1czoQJkXs4BoVoWgUUZtJuo1fjrx9psw+7iMphN2Hm+IIJTgoHULPuJ\nanhbpqAkIQ799JAwjy6QjX6kdDTpwWWQk6XMYrClwQKBgQD3OgGsTswsA7lIRtRC\nXYl8rHMa0/VmWNFe2sRMlTtlQTxCVj6hqvmrK/TADZf4sRm9fPbWm8Y6jhxBzl9Z\ntib1fYf54OyeXmfy8Z0ZDvGkyt3oMrVs+5POYbFkoUNP1PcOwMfGjIkwEsicx9cP\nefPJaD/YrHp63KOJ2FOtdjEHuwKBgQDOxr2ggJI85jfSYIfVf5cwCkX9uGknzFXw\naXESHjX+NNWRB1zKppN71n3Enl5SMcCgRq7iMncYloxXVmjPahVKo2YNYS0OQ0ng\n66suMvMd6sBwHgf0LzsX/hRILjllzn/aj7Rs025Ry/zJuwuZZsoI5ruJ2//R4Mre\n4fqkAQr7oQKBgQCnHxEud33Raxr+3tJxomVkX/bXddz3uKaf5ma4FlE2W2jutvpT\nsw5fRbGHeij3NlDeJPF/lYHk51f2rBkMvfOME7Wtlvyc+dhvBCFcZRu4eGKVqmG2\nMEJ0Stnt2o10E9SGpo7liu7aDniKcxTQI3JG/i/auo15LFlov1GheroeLQKBgBVQ\n35OALZMhmHeTg+06bfeB151EOXLk2aci94kKnD5MbAe7XpF1gpatkeGHAeovPtBG\n+RhQY36hZm5KdhuLsA41sfuHHQHvZdpN8SOeFPnsjVIBhohhphHfG3Alc71PAFcj\noVHmqeS8xp51Lcjuk70/K+4WQ9T6+27mlNP7V4qBAoGAdxkz9p3N2r4mkz6iu3pw\n9hncYuLmMY7576Oq0zS0vtVbti0AdDuwrXBqXVJywATNUElWEQ0n20MQv7pLWR9/\n0CMlZ1d7QMg67lIcFJUlrZ6HwQoelLCWKMPe8YfBI7aP6sJMwtyyK2oXpiG41guQ\nMRWW1OexLzmrJXIyt+Tr3Ns=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-oejpi@mexican-handicrafts.iam.gserviceaccount.com",
+  "client_id": "105605455440129459411",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-oejpi%40mexican-handicrafts.iam.gserviceaccount.com"
+}
